@@ -1,0 +1,2 @@
+# GITsession
+Training session
